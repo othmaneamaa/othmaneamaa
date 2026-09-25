@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-### 👨‍💻 Othmane Amaadour — Étudiant Ingénieur en IA & Data
+###  Othmane Amaadour — Étudiant Ingénieur en IA & Data
 
-🎓 5e année cycle ingénieur informatique à l'**EMSI Casablanca**, spécialité **Intelligence Artificielle & Data**.
-🔭 Je travaille sur les **pipelines de données**, les **agents LLM** et parfois... un moteur de jeu 🎮
-🌍 Je code en **français**, **arabe** et **anglais**.
-📊 Je mesure et valide mes résultats avant de conclure.
-🎯 Je recherche un **stage PFE en IA / Data** pour appliquer ces compétences sur des problématiques réelles.
+ 5e année cycle ingénieur informatique à l'**EMSI Casablanca**, spécialité **Intelligence Artificielle & Data**.
+ Je travaille sur les **pipelines de données**, les **agents LLM** et parfois... un moteur de jeu 🎮
+ Je code en **français**, **arabe** et **anglais**.
+ Je mesure et valide mes résultats avant de conclure.
+ Je recherche un **stage PFE en IA / Data** pour appliquer ces compétences sur des problématiques réelles.
 
 ---
 
-### 🛠️ Compétences techniques
+###  Compétences techniques
 
 **IA & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -51,7 +51,7 @@
 
 ---
 
-### 🚀 Projets phares
+###  Projets phares
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
@@ -63,7 +63,7 @@
 
 ---
 
-### 📈 Statistiques GitHub
+###  Statistiques GitHub
 
 <p align="center">
  <img src="https://github-readme-stats.shion.dev/api?username=othmaneamaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub d'Othmane" height="165"/>
