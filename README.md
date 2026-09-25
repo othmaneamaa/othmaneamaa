@@ -37,6 +37,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Langages & Web**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -73,16 +74,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=othmaneamaa&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
 </p>
 
----
 
-### 📫 Me contacter
-
-- 💼 LinkedIn : [Othmane Amaadour](https://www.linkedin.com/in/othmane-amaadour) *(à adapter avec ton URL)*
-- 📧 Email : *ton.email@example.com* *(à compléter)*
-- 🌐 Portfolio : *à compléter*
-
----
-
-### ⚡ Fun fact
-
-> Je passe autant de temps à valider mes résultats qu'à les produire — et parfois, je code un moteur de jeu juste pour le plaisir. 🎮
