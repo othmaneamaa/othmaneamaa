@@ -66,8 +66,8 @@
 ### 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=othmaneamaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub d'Othmane" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmaneamaa&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="165"/>
+ <img src="https://github-readme-stats.shion.dev/api?username=othmaneamaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub d'Othmane" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=othmaneamaa&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="165"/>
 </p>
 
 <p align="center">
